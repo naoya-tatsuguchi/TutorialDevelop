@@ -76,7 +76,7 @@ class UserControllerTest {
         assertEquals(1, user.getId());
         assertEquals("キラメキ太郎", user.getName());
         assertEquals(2, user.getId());
-        assertEquals("きらめき次郎", user.getName());
+        assertEquals("キラメキ次郎", user.getName());
         assertEquals(3, user.getId());
         assertEquals("キラメキ花子", user.getName());
     }
